@@ -1,0 +1,4 @@
+{
+  "name": "company-verify",
+  "description": "Weryfikacja firm i kontrahentów w oficjalnych rejestrach (KRS, CEIDG, biała lista VAT, CRBR – beneficjenci rzeczywiści, VIES, GLEIF, Companies House, rejestry zagraniczne) z dokumentów lub danych rejestrowych wraz z raportem PDF i analizą ryzyka AML/KYC."
+}
